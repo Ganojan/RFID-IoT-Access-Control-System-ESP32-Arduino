@@ -46,4 +46,4 @@ The system authenticates RFID tags and logs each scan (UID, access status, times
 
 ---
 
-**README by Ganojan Pathmasiri | Sept. 25, 2025**
+## README by Ganojan Pathmasiri | Sept. 25, 2025 ##
