@@ -26,8 +26,8 @@ The system authenticates RFID tags and logs each scan (UID, access status, times
 - 1x RC522 RFID reader
 - 1x Blue LED
 - 1x Red LED
-- 1x 220 Ohms Resistor
-- 10x Male to Female Jumper Wires
+- 2x 220 Ohms Resistor
+- 10x Male to Male Jumper Wires
 - 1x Breadboard
 - 1x Micro-USB Cable
 
