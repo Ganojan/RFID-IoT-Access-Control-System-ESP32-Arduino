@@ -36,6 +36,13 @@ The system authenticates RFID tags and logs each scan (UID, access status, times
 
 ---
 
+# Files
+
+ESP32_RFID_Project.ino : Main project file uploaded to the ESP32-WROOM-32E
+access_log.php : PHP script
+
+---
+
 # Additional References
 
 ---
