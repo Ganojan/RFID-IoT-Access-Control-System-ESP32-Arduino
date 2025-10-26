@@ -1,5 +1,7 @@
 # RFID-IoT-Access-Control-System-ESP32-Arduino
 
+---
+
 ## Description
 
 Wi-Fi connected access control system built with an **ESP32** and **RC522 RFID reader**.  
