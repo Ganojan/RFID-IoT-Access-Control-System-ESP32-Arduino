@@ -6,7 +6,7 @@
 # Description
 
 Wi-Fi connected access control system built with an **ESP32** and **RC522 RFID reader**.  
-The system authenticates RFID tags and logs each scan (UID, access status, timestamp) to a **MySQL database** via a **PHP web server**. Every authenticated scan is signalled by a Blue LED and every invalid scan is signalled by a Red LED.
+The system authenticates RFID tags and logs each scan (UID, access status, timestamp) to a **MySQL database** via a **PHP web server**. Every authenticated scan is also locally signalled by a Blue LED and every invalid scan is signalled by a Red LED.
 
 ---
 
