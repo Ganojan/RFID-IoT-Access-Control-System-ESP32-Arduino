@@ -1,7 +1,6 @@
 # RFID IoT Access Control System with ESP32
 
 ---
----
 
 # Description
 
